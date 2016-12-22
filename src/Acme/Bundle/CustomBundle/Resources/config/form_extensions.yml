@@ -1,0 +1,4 @@
+# Acme/Bundle/CustomBundle/Resources/config/form_extensions.yml
+
+attribute_fields:
+    acme-range-field: acme/range-field

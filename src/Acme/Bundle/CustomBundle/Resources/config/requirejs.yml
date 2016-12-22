@@ -1,0 +1,7 @@
+# Acme/Bundle/CustomBundle/Resources/config/requirejs.yml
+
+config:
+    paths:
+        acme/range-field: acmebundlecustom/js/product/field/range-field
+
+        acme/template/product/field/range: acmebundlecustom/templates/product/field/range.html
